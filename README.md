@@ -1,14 +1,19 @@
-# Welcome to your Lovable project
+# Remix of Lovable Design System
+
+المرحلة الأولى — الهوية البصرية
+
+قم بتصميم لوحة التحكم، القائمة الجانبية، الخطوط، الألوان، الجداول، الأزرار والنماذج. الهدف أن تعتمد لغة التصميم قبل التوسع.
+ويجب  ان يتوافق مع شاشة الهاتف وشاشة الكمبيوتر واللابتوب وغيرها من الاجهزة
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/894cf994-d9de-47b8-b5e1-4a06ad44d14e).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +25,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
